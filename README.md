@@ -1,8 +1,8 @@
-# minimal_weather_app
+### Minimal_weather_app
 
 
 A new Flutter project showcasing the use of json apis - weather api and fecthing data with response to the respective area
-## Dependencies needed
+#### Dependencies needed
 geolocator -> flutter pub add geolocator,
 http package ->flutter pub add http,
 api-openweathermap key,
